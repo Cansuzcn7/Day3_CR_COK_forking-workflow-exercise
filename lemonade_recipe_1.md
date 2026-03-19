@@ -1,4 +1,4 @@
-## ingradiendts
+## Ingredients
 3 lemons
 1 spoon of sugar
 1 litre water
