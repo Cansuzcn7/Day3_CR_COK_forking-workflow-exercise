@@ -1,9 +1,9 @@
 # Lemonade
 
 ## Ingredients
-3 lemons
-1 cup of sugar
-1 litre of water
+- 3 lemons
+- 1 cup of sugar
+- 1 litre of water
 
 ## Instructions
 Step 1: Ingredients: 3 ripe lemons (they need to be a little soft!) ...
